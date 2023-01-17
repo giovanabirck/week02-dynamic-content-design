@@ -105,3 +105,7 @@ a {
     color-scheme: dark;
   }
 }
+
+label{
+  font-family: Arial, Helvetica, sans-serif;
+}
