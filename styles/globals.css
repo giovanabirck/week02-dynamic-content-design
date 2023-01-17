@@ -111,6 +111,7 @@ label{
   font-weight: bold;
   font-size: 16px;
   padding-bottom: 8px;
+  margin-right: 23%;
 }
 
 input{
@@ -118,7 +119,7 @@ input{
   border-radius: 4px;
   height: 32px;
   width: 30%;
-  background-color: aliceblue;
+  background-color: white;
   margin-bottom: 40px;
 }
 
