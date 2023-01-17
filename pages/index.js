@@ -41,7 +41,7 @@ export default function Home() {
         <link href='./styles.globals.css'></link>
       </Head>
       <main className={styles.main}>
-        <label>First name:</label>
+        <label class="first-name">First name:</label>
         <input
           type="text"
           id="first"
@@ -51,7 +51,7 @@ export default function Home() {
           onChange={(e => setFormData({...formData, firstName: e.target.value}))}
         />
 
-        <label>Username:</label>
+        <label class="username">Username:</label>
         <input
           type="text"
           id="username"
