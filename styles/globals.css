@@ -112,6 +112,14 @@ label{
   font-size: 14px;
 }
 
+.first-name{
+  margin-top: 500px;
+}
+
+.username{
+  margin-top: -500px;
+}
+
 input{
   border: solid 1px black;
   border-radius: 4px;
